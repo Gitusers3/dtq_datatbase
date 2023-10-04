@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64b0f09733ab758dc6ee8c50"
+  },
+  "a_name": "Admin",
+  "a_phone": "1234567890",
+  "a_email": "email@gmail.com",
+  "a_password": "$2a$10$cwyDddBLLu3WR3ehjDaUquNnDORY5UyaYljwPTB6HtWZKik.Pt.rC",
+  "a_status": "Active",
+  "a_adate": {
+    "$date": {
+      "$numberLong": "1689317527350"
+    }
+  },
+  "__v": 0
+}]
